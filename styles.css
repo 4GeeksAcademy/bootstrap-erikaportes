@@ -18,4 +18,18 @@ align-items: center;
 padding: 20px;
 }
 
+.imagen-ig {
+    width: 40px;
+    height: 40px;
+}
 
+.palabra-ig {
+    gap: 5px;
+}
+
+.instagram {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
