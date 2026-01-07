@@ -1,21 +1,7 @@
-.igicon {
-    width: 40px;
-    height: 40px;
-    margin-right: 10px;
-}
-
 .settingsicon {
     width: 25px;
     height: 25px;
     background-color: grey;
-}
-
-.tab {
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 20px;
 }
 
 .imagen-ig {
@@ -23,13 +9,3 @@ padding: 20px;
     height: 40px;
 }
 
-.palabra-ig {
-    gap: 5px;
-}
-
-.instagram {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 10px;
-}
